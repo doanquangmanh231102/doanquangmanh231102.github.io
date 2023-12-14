@@ -10,7 +10,7 @@ body{
 
 header {
   padding: 20px 0;
-  background-color: #ff04de;
+  background-color: #16a085;
   display: flex;
 }
 /* 
@@ -88,7 +88,7 @@ p{
 }
 
 .tag-fill{
-  background-color: #05f952;
+  background-color: #16a085;
   padding: 8px 20px;
   color: white;
   font-size: 18px;
@@ -135,14 +135,14 @@ p{
 .progress{
   width: 50%;
   height: 10px;
-  background-color: #d405f4;
+  background-color: #16a085;
 }
 
 .tag{
   font-size: 18px;
   color: #212121;
   padding: 10px 20px;
-  border-left: 18px solid #f70404;
+  border-left: 18px solid #16a085;
   margin-bottom: 20px;
 }
 
@@ -154,7 +154,7 @@ p{
 
 .tabbar-title .text-content {
   font-weight: 600;
-  color: #10f4c6;
+  color: #16a085;
 }
 
 .content ul {
